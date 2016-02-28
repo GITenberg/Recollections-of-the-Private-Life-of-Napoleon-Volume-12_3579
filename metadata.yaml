@@ -1,0 +1,39 @@
+_repo: Recollections-of-the-Private-Life-of-Napoleon-Volume-12_3579
+contributor:
+  translator:
+    agent_name: Clark, Walter
+    birthdate: 1846
+    deathdate: 1924
+    gutenberg_agent_id: '1229'
+    url: http://www.gutenberg.org/2009/agents/1229
+creator:
+  author:
+    agent_name: Wairy, Louis Constant
+    aliases:
+    - Constant, Louis Constant Wairy, known as
+    - Wairy, Constant
+    birthdate: 1778
+    deathdate: 1845
+    gutenberg_agent_id: '1228'
+    url: http://www.gutenberg.org/2009/agents/1228
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Louis_Constant_Wairy
+    - http://en.wikipedia.org/wiki/Louis_Constant_Wairy
+description: 'Uniform title: Mémoires de Constant. English'
+gutenberg_issued: '2002-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Valets -- France -- Biography'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with valets'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- !lcc 'DC'
+- !lcsh 'Wairy, Louis Constant, 1778-1845'
+title: Recollections of the Private Life of Napoleon — Volume 12
+url: http://www.gutenberg.org/ebooks/3579
